@@ -15,4 +15,4 @@ Currently this repo has _Notes_ on :-
 
 
 <!-- Logo -->
-![Notes](Link)
+![Notes](https://github.com/kushagra414/Notes/blob/master/Take_Notes_In_An_Inteview_012617.jpg)
