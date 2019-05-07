@@ -11,4 +11,4 @@ Following topics are included in this Chapter
 * Function Overloading and Ambiguity
 
 <!-- Logo -->
-![Function Overloading](Link)
+![Function Overloading](https://github.com/kushagra414/Notes/blob/master/C%2B%2B%20notes/3%20Function%20Overloading%2C%20Copy%20Constructors%2C%20and%20Default%20Argument/function-overloading-in-cpp.png)
