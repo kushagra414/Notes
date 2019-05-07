@@ -10,4 +10,4 @@ Following topics are included in the Chapter
 * Virtual Base Class
 
 <!-- Logo -->
-![Inheritance](Link)
+![Inheritance](https://github.com/kushagra414/Notes/blob/master/C%2B%2B%20notes/5%20Inheritance/inheritance.jpg)
