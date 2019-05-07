@@ -22,4 +22,4 @@ Following topics are included in the Chapter
 * Object Assignment
 
 <!-- Logo -->
-![Classes and Objects](Link)
+![Classes and Objects](https://github.com/kushagra414/Notes/blob/master/C%2B%2B%20notes/1%20Classes%20and%20Objects/Classes%20and%20Objects.jpg)
