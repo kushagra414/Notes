@@ -33,6 +33,6 @@ int main(){
 	
 	
 	myfunc('c');//Unambigous
-	//myfunc(88); //Ambiguity due to type conversion. Will produce error
+	//myfunc(88); //Ambiguity due to type conversion. Will produce error. Whether int or unsigned char or char? which function to run.
 	return 0;
 }
