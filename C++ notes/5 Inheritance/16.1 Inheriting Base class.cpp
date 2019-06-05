@@ -21,9 +21,9 @@ class derived1:private base{
 
 class derived2:private derived1{
 	public:
-		int j;
+		int l;
 		derived2(){
-		//	j = i*j*10; //error here, as the derived1 class inherited the base class as private hence derived2 cannot acces the base class
+		//	l = i*j*10; //error here, as the derived1 class inherited the base class as private hence derived2 cannot acces the base class
 		//Though still derived1 can access public and protected members of the base class
 		}
 };
