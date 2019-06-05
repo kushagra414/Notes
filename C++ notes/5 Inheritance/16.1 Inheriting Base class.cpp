@@ -32,6 +32,6 @@ int main(){
 	derived1 obj1;
 	derived2 obj2;
 	cout<<obj1.k<<endl;
-	cout<<obj2.j<<endl;
+	cout<<obj2.l<<endl;
 	return 0;
 }
