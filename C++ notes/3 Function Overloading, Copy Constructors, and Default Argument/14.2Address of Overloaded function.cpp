@@ -12,6 +12,7 @@ int function(int a, int b){
 
 int main(){
 	int (*fp)(int);  //fp is a int type pointer to a function
+	fp = &function;
 	cout<<fp(12);
 	return 0;
 }
