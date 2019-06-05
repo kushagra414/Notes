@@ -28,7 +28,7 @@ void *loc::operator new(size_t size){
 
 void *loc::operator new [](size_t size){
 	cout<<"new operator for array\n";
-	void *p = malloc(size);
+	void *p = malloc(size);  //As we know malloc() do not call constructor automatically. Costructor will be called inside main after space is allocated.
 	return p;
 }
 
@@ -56,7 +56,7 @@ int main(){
 	p1 = new loc [5];
 	for(int i=0;i<5;i++){
 	cout<<"p1["<<i<<"] ---->\n";
-	//Will show random values as the default constructor wa invoked
+	//Will show random values as the default constructor was invoked
 	p1[i].show();
 }
 	delete [] p1;
